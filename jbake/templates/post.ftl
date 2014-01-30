@@ -23,6 +23,8 @@
 
 	<hr>
 	
+	<#include "share-post.ftl">
+
 	<div id="disqus_thread"></div>
 
 	<script type="text/javascript">

@@ -21,7 +21,8 @@
   				</a>
   			</p>
   			<p>${post.body}</p>
-  		</div>
+        <#include "share-index.ftl">
+      </div>
   		</#if>
   	</#list>
 	
