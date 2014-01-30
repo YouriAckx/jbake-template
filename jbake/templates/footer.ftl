@@ -5,7 +5,7 @@
     <div id="footer">
       <div class="container">
         <p class="muted credit">
-          &copy; 2014 | Mixed with <a href="http://twitter.github.com/bootstrap/">Bootstrap v2.3.1</a> | Baked with <a href="http://jbake.org">JBake ${version}</a> | <a href="http://bootswatch.com/united/#">Bootswatch United</a> theme | Remixed by <a href="http://ackx.net">Youri Ackx</a>
+          &copy; 2014 | Mixed with <a href="http://twitter.github.com/bootstrap/">Bootstrap v2.3.1</a> | Baked with <a href="http://jbake.org">JBake ${version}</a> | <a href="http://bootswatch.com/united/#">Bootswatch United</a> theme | <a href="http://www.simplesharebuttons.com/">Simple share buttons</a> | Remixed by <a href="http://ackx.net">Youri Ackx</a>
         </p>
       </div>
     </div>
