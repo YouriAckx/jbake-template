@@ -2,9 +2,14 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>My Blog</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="description">
+    <#if content?has_content>
+    <meta name="description" content="${content.title}">
+    <title>${content.title} - My Blog</title>
+    <#else>
+    <meta name="description" content="My Blog description">
+    <title>My blog</title>
+    </#if>
     <meta name="author" content="author">
     <meta name="keywords" content="key, words">    
 
